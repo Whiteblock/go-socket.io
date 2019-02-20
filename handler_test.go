@@ -3,8 +3,8 @@ package socketio
 import (
 	"testing"
 
-	"github.com/googollee/go-engine.io"
-	. "github.com/smartystreets/goconvey/convey"
+	"github.com/Whiteblock/go-engine.io"
+	. "github.com/Whiteblock/goconvey/convey"
 	"io"
 	"net/http"
 )

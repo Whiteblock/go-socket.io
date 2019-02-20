@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	. "github.com/smartystreets/goconvey/convey"
+	. "github.com/Whiteblock/goconvey/convey"
 )
 
 func TestMessageReader(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	. "github.com/smartystreets/goconvey/convey"
+	. "github.com/Whiteblock/goconvey/convey"
 )
 
 func TestTrimWriter(t *testing.T) {

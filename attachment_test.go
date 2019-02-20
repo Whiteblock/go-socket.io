@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	. "github.com/smartystreets/goconvey/convey"
+	. "github.com/Whiteblock/goconvey/convey"
 )
 
 type NoAttachment struct {
